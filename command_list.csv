@@ -1,0 +1,48 @@
+    1  git config global "Oleks11Vorobiov"
+    2  git config --global user.name "Oleks11Vorobiov"
+    3  git config --global user.email 19aleksey.v.91@gmail.com
+    4  git clone https://github.com/Oleks11Vorobiov/HW_10.git
+    5  cd hw_10
+    6  git status
+    7  git brunch
+    8  git branch
+    9  touch text_ignore.txt
+   10  vim .gitignore
+   11  git status
+   12  git add
+   13  git add.
+   14  git add text_ignore.txt
+   15  git*
+   16  git add*
+   17  git --help
+   18  git add *
+   19  git commit -m "Task1"
+   20  git add .
+   21  git commit -m "task1"
+   22  git log
+   23  touch main_test.txt
+   24  git add .
+   25  git commit -m "task2"
+   26  git add main_test.txt
+   27  git commit
+   28  git checkout 'develop'
+   29  git checkout -b 'develop'
+   30  touch develop_test.txt
+   31  git add .
+   32  git commit
+   33  git commit
+   34  git commit -m "new branch"
+   35  git checkout main
+   36  dit commit -m "task2"
+   37  git branch
+   38  git add main_test.txt
+   39  git commit -m "task2"
+   40  git checkout develop
+   41  vim develop_test.txt
+   42  git status
+   43  git add .
+   44  git commit -m "changes"
+   45  git checkout main
+   46  git merge develop
+   47  git log
+   48  history > command_list.csv
